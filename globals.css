@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+:root {
+  --lb-blue: #1A6FBF;
+  --lb-blue-dark: #145A9E;
+  --lb-blue-light: #E8F2FB;
+  --lb-orange: #F05A22;
+  --lb-orange-light: #FEF0EB;
+  --lb-gray: #F5F6F8;
+  --lb-text: #1A2B3C;
+  --lb-muted: #6B7A8D;
+}
